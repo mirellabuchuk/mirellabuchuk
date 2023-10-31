@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 🎱
 
-<!--
-**mirellabuchuk/mirellabuchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mirella Raissa Cordeiro Santanna
 
-Here are some ideas to get you started:
+- utilizo a plataforma alura para estudar linguagns de programaçao.
+- estou me desenvolvendo nas linguagens javaScript, HTML e CSS.
+- utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce pode entrar em contato comigo 📫
+@mirella.anna@escola.pr.gov.br
+
+![](https://media.tenor.com/NvL19Ai8aUsAAAAC/boo-abra%C3%A7ando-boo.gif)
+
